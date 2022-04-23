@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Tresha-Gaye/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^7.1.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^5.3.1"
   }
 }
